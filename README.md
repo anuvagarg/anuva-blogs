@@ -1,2 +1,2 @@
 # anuva-blogs
-blog 1: <href="./my-first-web-dev-project.md"/>
+[Blog 1] (./my-first-web-dev-project.md)

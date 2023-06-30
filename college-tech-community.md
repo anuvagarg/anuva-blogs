@@ -7,8 +7,6 @@
   <br>
   Additionally, a crucial aspect of the assessment was the UI/UX evaluation. I was tasked with designing widgets, highlighting my creative problem-solving skills and attention to detail in crafting user-friendly interfaces. This assessment served as a testament to my understanding of user experience and my ability to translate concepts into visually appealing and functional designs.<br>
   <br>
-  The organization I joined recognized the significance of these practical tasks as indicators of potential and capabilities. Their selection process focused on skills, allowing me to showcase my abilities rather than getting caught up in political dynamics.<br>
-  <br>
   Being a member of this organization has been an enriching experience. It has provided me with opportunities to further develop my technical skills. The shared mindset among community members created a supportive and inspiring atmosphere, allowing us to push our boundaries and achieve remarkable results. Through this collaboration, I not only expanded my network but also gained valuable insights and built lasting connections with individuals who share my enthusiasm for technology.<br>
   <br>
 </p>

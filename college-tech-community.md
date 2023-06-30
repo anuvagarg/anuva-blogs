@@ -1,7 +1,7 @@
 # Embracing College Technical Communities: Where Capabilities Take the Spotlight
 
 <p style="text-align: justified;">
-  Joining technical communities in college can sometimes feel like navigating a political landscape, with hidden agendas and power plays. However, there are exceptional organizations that prioritize merit and capabilities above all else. I had the privilege of being part of one such organization that valued skills without getting entangled in politics.<br>
+  Joining technical communities in college can sometimes feel like navigating a political landscape, with hidden agendas and power plays. However, there are exceptional organizations that prioritize capabilities above all else. I had the privilege of being part of one such organization <a href = "https://upes-open.org">upes-open</a> that valued skills without getting entangled in politics.<br>
   <br>
   During the selection process, I was presented with a series of tasks that truly put my abilities to the test. First, I had to deploy a node application on Heroku, a SaaS platform where I was able to demonstrate my ability to deploy automated CI/CD pipelines. This task showcased my technical prowess and ability to handle real-world scenarios.<br>
   <br>

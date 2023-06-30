@@ -3,7 +3,6 @@
 ![Website Image](assets/1st-web-dev.jpg)
 ### Website: [OUR FAITH NGO](https://ourfaithdoon.org)
 
-<p style="text-align: justified;">
 Embarking on my first web development project was quite a ride. I didn't have much experience in web dev, but that didn't stop me from diving into the world of HTML, CSS, and JavaScript.
 
 To get started, I relied on helpful resources like [W3Schools](https://www.w3schools.com). Their tutorials on HTML, CSS, JavaScript, and Bootstrap became my go-to guides. I followed along, learning the basics and gradually building my skills.
@@ -15,4 +14,3 @@ However, let's be honest—starting from scratch can be a bit tedious. That's wh
 By importing UI kits, I was able to focus on customizing and fine-tuning the components to fit my project's needs. It made the development process smoother and more efficient.
 
 While web development can be serious business, injecting a casual element into the process made it more enjoyable. I discovered that there's room for creativity and experimentation alongside the technical aspects. So, as I continue my web dev journey, I'll embrace the practical knowledge from tutorials and the convenience of UI kits. 
-</p>
